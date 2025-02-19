@@ -1,0 +1,9 @@
+{
+    "host": "114.212.",
+    "username": "",
+    "password": "",
+    "dockerport": "",
+    "servershell": "zsh",
+    "clientpass": "123",
+    "clientport": "7890"
+}
